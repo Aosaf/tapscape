@@ -22,14 +22,7 @@
 	// Scroll animation init
 	window.sr = new scrollReveal();
 
-
-	// Home number counterup
-	if($('.count-item').length){
-		$('.count-item strong').counterUp({
-			delay: 10,
-			time: 1000
-		});
-	}
+	
 
 
 	// App single gallery
